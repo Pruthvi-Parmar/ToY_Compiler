@@ -1,0 +1,10 @@
+ank num;
+bool flag;
+num = 10 + 20;
+chhapo("Hello, World!");
+
+fervo (num = 0; num < 5; num = num + 1) {
+    chhapo("Loop Iteration!");
+}
+
+moklo num;
